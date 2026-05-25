@@ -1,0 +1,28 @@
+Training Metrics
+<<<<<<< HEAD
+MSE: 27.2714
+RMSE: 5.2222
+MAE: 3.8449
+MAPE: 1.89%
+R2: 0.9557
+
+Testing Metrics
+MSE: 43.6065
+RMSE: 6.6035
+MAE: 5.3030
+MAPE: 2.06%
+R2: 0.8099
+=======
+MSE: 31.6325
+RMSE: 5.6243
+MAE: 4.1083
+MAPE: 2.04%
+R2: 0.9493
+
+Testing Metrics
+MSE: 46.3239
+RMSE: 6.8062
+MAE: 5.2042
+MAPE: 2.07%
+R2: 0.8894
+>>>>>>> 7dba5d02c0ffa9e2466c558372446ee5d8911a71

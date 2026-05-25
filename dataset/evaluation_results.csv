@@ -1,0 +1,13 @@
+metric,value
+CV Accuracy (5-Fold),0.7526
+CV Std Deviation,0.0184
+Test Accuracy,0.719
+Precision — Underperform (0),0.7634
+Recall    — Underperform (0),0.8554
+F1-Score  — Underperform (0),0.8068
+Support   — Underperform (0),83.0
+Precision — Outperform  (1),0.5714
+Recall    — Outperform  (1),0.4211
+F1-Score  — Outperform  (1),0.4848
+Support   — Outperform  (1),38.0
+l
